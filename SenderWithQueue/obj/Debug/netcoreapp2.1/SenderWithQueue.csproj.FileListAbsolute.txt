@@ -1,0 +1,4 @@
+C:\BMWWork\BMWServiceBus\BMWServceBus\SenderWithQueue\obj\Debug\netcoreapp2.1\SenderWithQueue.csprojAssemblyReference.cache
+C:\BMWWork\BMWServiceBus\BMWServceBus\SenderWithQueue\obj\Debug\netcoreapp2.1\SenderWithQueue.csproj.CoreCompileInputs.cache
+C:\BMWWork\BMWServiceBus\BMWServceBus\SenderWithQueue\obj\Debug\netcoreapp2.1\SenderWithQueue.AssemblyInfoInputs.cache
+C:\BMWWork\BMWServiceBus\BMWServceBus\SenderWithQueue\obj\Debug\netcoreapp2.1\SenderWithQueue.AssemblyInfo.cs
